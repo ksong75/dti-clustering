@@ -21,6 +21,7 @@ Thumbs.db
 *.pkl
 *.html
 *.png
+*.jpg
 
 # data and others
 jz_*
